@@ -1,3 +1,7 @@
+# Fork to attempt Rails 5+ Compat
+
+Obviously using something else is better but sometimes you have a project you need to upgrade and don't want to dive into replacing a bunch of stuff yet :shrug:
+
 # Deprecated as of October 7, 2016
 
 Given other [both](https://shubox.io/) [paid](https://www.filestack.com/) and
